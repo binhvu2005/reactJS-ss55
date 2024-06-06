@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "title": "2",
+      "content": "2",
+      "thumbnail": "2",
+      "created_at": "2",
+      "created-by": "2",
+      "userId": "2",
+      "comments": [],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": " Title mới",
+      "thumbnail": "https://example.com/countryside_drive.jpg",
+      "created_at": "2022-09-27T11:45:00",
+      "created_by": "Maria",
+      "comments": [
+        {
+          "id": 1,
+          "user": "Nathan",
+          "comment": "I enjoy going on drives like these, surrounded by nature and tranquility."
+        },
+        {
+          "id": 2,
+          "user": "Olivia",
+          "comment": "The winding roads and lush greenery make this drive so picturesque."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Cozy winter cabin getaway",
+      "thumbnail": "https://example.com/winter_cabin.jpg",
+      "created_at": "2022-09-28T14:20:00",
+      "created_by": "Patrick",
+      "comments": [
+        {
+          "id": 1,
+          "user": "Quinn",
+          "comment": "I could use a retreat to a cozy cabin like this. Looks like the perfect winter escape."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Spectacular city skyline view",
+      "thumbnail": "https://example.com/city_skyline.jpg",
+      "created_at": "2022-09-29T20:10:00",
+      "created_by": "Rachel",
+      "comments": [
+        {
+          "id": 1,
+          "user": "Sam",
+          "comment": "The city lights at night are so mesmerizing. What a stunning view!"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "content": "",
+      "thumbnail": "",
+      "created_at": "",
+      "created-by": "",
+      "userId": "",
+      "comments": [],
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "user": "Tyler",
+      "post_id": 3,
+      "comment": "The countryside drive looks so serene and relaxing. I would love to take a trip there."
+    },
+    {
+      "id": 2,
+      "user": "Victoria",
+      "post_id": 4,
+      "comment": "Winter cabin getaways are the best way to unwind and enjoy the snowy scenery. This one looks perfect."
+    },
+    {
+      "id": 3,
+      "user": "William",
+      "post_id": 5,
+      "comment": "The city skyline view is breathtaking. The hustle and bustle of the city below is so captivating."
+    }
+  ]
+}

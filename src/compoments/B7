@@ -1,0 +1,11 @@
+post http://localhost:3000/posts
+{
+
+    "title": "",
+    "content": "",
+    "thumbnail": "",
+    "created_at":"",
+    "created-by":"",
+    "userId":"",
+    "comments":[]
+}

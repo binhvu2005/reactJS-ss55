@@ -1,0 +1,6 @@
+PACTH http://localhost:3000/posts/3/comments/1
+
+{
+  "user": "người  mới",
+  "comment": "cập nhật comment mới."
+}
